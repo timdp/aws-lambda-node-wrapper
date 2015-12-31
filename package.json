@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Runs recent versions of Node.js on AWS Lambda.",
   "private": true,
-  "author": "Tim De Pauw (https://www.tmdpw.eu/)",
+  "author": "Tim De Pauw (https://tmdpw.eu/)",
   "engines": {
     "node": ">=0.10.0"
   },
